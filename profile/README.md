@@ -59,7 +59,7 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
           <td>Back End Javascript</td>
           <td>Universitas Mikroskil</td>
           <td>
-              <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/devon-loen-a67513326/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
