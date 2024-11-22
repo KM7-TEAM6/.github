@@ -1,4 +1,4 @@
-# ✈️🎫 Flight It Now 🎫✈️
+# ✈️🎫 Tiketku 🎫✈️
 <p>Platform ini merupakan tempat beli dan booking tiket penerbangan secara online, baik one way (sekali
 penerbangan) dan round trip (pulang pergi). Platform ini membuka dan menyediakan berbagai jenis
 penerbangan domestik dan mancanegara. Flow / alur platform dibebaskan berdasarkan kreasi tim final
