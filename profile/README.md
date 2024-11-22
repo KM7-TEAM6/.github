@@ -21,7 +21,7 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
         <tr>
           <td>Iko Indra Gunawan</td>
           <td>Full Stack Web</td>
-          <td>Universitas .....</td>
+          <td>UPN Veteran Jatim</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -30,7 +30,7 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
         <tr>
           <td>Risky Pratama</td>
           <td>Full Stack Web</td>
-          <td>Universitas .....</td>
+          <td>Universitas Gunadarma</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -39,7 +39,7 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
         <tr>
           <td>Yudriqul Aulia</td>
           <td>Full Stack Web</td>
-          <td>Universitas .....</td>
+          <td>Universitas Jambi</td>
           <td>
               <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -48,9 +48,9 @@ mengirimkan dan menerima bukti hasil transaksi melalui platform ini.</p>
         <tr>
           <td>David Cristian Putra Sutanto</td>
           <td>Full Stack Web</td>
-          <td>Universitas .....</td>
+          <td>Universitas Kanjuruhan Malang</td>
           <td>
-              <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
+              <a href="https://www.linkedin.com/in/david-cristian-putra-sutanto-313676269/"><img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"></a>
               <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
           </td>
         </tr>
